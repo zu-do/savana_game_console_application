@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Savanna/1.0.0": {
+        "dependencies": {
+          "Savanna.Console": "1.0.0",
+          "Savanna.Core": "1.0.0",
+          "Savanna.Models": "1.0.0",
+          "Savanna.PluginSystem": "1.0.0"
+        },
+        "runtime": {
+          "Savanna.dll": {}
+        }
+      },
+      "AnimalAttributes/1.0.0": {
+        "runtime": {
+          "AnimalAttributes.dll": {}
+        }
+      },
+      "AnimalBehavior/1.0.0": {
+        "dependencies": {
+          "Savanna.Models": "1.0.0"
+        },
+        "runtime": {
+          "AnimalBehavior.dll": {}
+        }
+      },
+      "Savanna.Console/1.0.0": {
+        "dependencies": {
+          "AnimalBehavior": "1.0.0",
+          "Savanna.Core": "1.0.0",
+          "Savanna.Models": "1.0.0"
+        },
+        "runtime": {
+          "Savanna.Console.dll": {}
+        }
+      },
+      "Savanna.Core/1.0.0": {
+        "dependencies": {
+          "AnimalAttributes": "1.0.0",
+          "AnimalBehavior": "1.0.0",
+          "Savanna.Models": "1.0.0",
+          "Savanna.PluginSystem": "1.0.0"
+        },
+        "runtime": {
+          "Savanna.Core.dll": {}
+        }
+      },
+      "Savanna.Models/1.0.0": {
+        "dependencies": {
+          "AnimalAttributes": "1.0.0"
+        },
+        "runtime": {
+          "Savanna.Models.dll": {}
+        }
+      },
+      "Savanna.PluginSystem/1.0.0": {
+        "dependencies": {
+          "Savanna.Models": "1.0.0"
+        },
+        "runtime": {
+          "Savanna.PluginSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Savanna/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalAttributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnimalBehavior/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Savanna.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Savanna.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Savanna.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Savanna.PluginSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
