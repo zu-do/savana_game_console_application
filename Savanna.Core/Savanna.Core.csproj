@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnimalAttributes\AnimalAttributes.csproj" />
+    <ProjectReference Include="..\AnimalBehavior\AnimalBehavior.csproj" />
+    <ProjectReference Include="..\Savanna.Models\Savanna.Models.csproj" />
+    <ProjectReference Include="..\Savanna.PluginSystem\Savanna.PluginSystem.csproj" />
+  </ItemGroup>
+
+</Project>
