@@ -1,0 +1,15 @@
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\bin\Debug\net6.0\Savanna.Models.deps.json
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\bin\Debug\net6.0\Savanna.Models.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\bin\Debug\net6.0\Savanna.Models.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.AssemblyInfoInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.AssemblyInfo.cs
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.csproj.CoreCompileInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\refint\Savanna.Models.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\ref\Savanna.Models.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\bin\Debug\net6.0\AnimalAttributes.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\bin\Debug\net6.0\AnimalAttributes.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.csproj.AssemblyReference.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\Savanna.Models\obj\Debug\net6.0\Savanna.Models.csproj.CopyComplete
