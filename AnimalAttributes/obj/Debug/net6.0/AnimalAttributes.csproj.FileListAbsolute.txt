@@ -1,0 +1,11 @@
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\bin\Debug\net6.0\AnimalAttributes.deps.json
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\bin\Debug\net6.0\AnimalAttributes.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\bin\Debug\net6.0\AnimalAttributes.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\AnimalAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\AnimalAttributes.AssemblyInfoInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\AnimalAttributes.AssemblyInfo.cs
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\AnimalAttributes.csproj.CoreCompileInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\AnimalAttributes.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\refint\AnimalAttributes.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\AnimalAttributes.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalAttributes\obj\Debug\net6.0\ref\AnimalAttributes.dll

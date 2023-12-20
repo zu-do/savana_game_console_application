@@ -1,0 +1,17 @@
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\bin\Debug\net6.0\AnimalBehavior.deps.json
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\bin\Debug\net6.0\AnimalBehavior.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\bin\Debug\net6.0\AnimalBehavior.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\bin\Debug\net6.0\Savanna.Models.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\bin\Debug\net6.0\Savanna.Models.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.csproj.AssemblyReference.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.AssemblyInfoInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.AssemblyInfo.cs
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.csproj.CoreCompileInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.csproj.CopyComplete
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\refint\AnimalBehavior.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\AnimalBehavior.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\obj\Debug\net6.0\ref\AnimalBehavior.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\bin\Debug\net6.0\AnimalAttributes.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalBehavior\bin\Debug\net6.0\AnimalAttributes.pdb
