@@ -1,0 +1,15 @@
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\bin\Debug\net6.0\AnimalPlugins.deps.json
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\bin\Debug\net6.0\AnimalPlugins.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\bin\Debug\net6.0\AnimalPlugins.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\bin\Debug\net6.0\AnimalAttributes.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\bin\Debug\net6.0\AnimalAttributes.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.csproj.AssemblyReference.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.AssemblyInfoInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.AssemblyInfo.cs
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.csproj.CoreCompileInputs.cache
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.csproj.CopyComplete
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\refint\AnimalPlugins.dll
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\AnimalPlugins.pdb
+C:\Users\domante.zukauskaite\Desktop\PROJECTS\Savanna\AnimalPlugins\obj\Debug\net6.0\ref\AnimalPlugins.dll
